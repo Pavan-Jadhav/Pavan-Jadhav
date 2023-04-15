@@ -18,7 +18,7 @@
 
 - 📄 Know about my work & experiences [https://www.linkedin.com/in/pavanjadhav/](https://www.linkedin.com/in/pavanjadhav/)
 
-- ⚡ Fun fact **📈 Financial Markets Trading ✈️ Traveling 🎮 Gaming**
+- ⚡ Fun fact **📈 Financial Markets Technical Analyst & Trading ✈️ Traveling 🎮 Gaming**
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
