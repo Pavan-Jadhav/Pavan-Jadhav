@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan061994&label=Profile%20views&color=0e75b6&style=flat" alt="pavan061994" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics, Python, Tableau & Power BI Visualization**
+- 🔭 I’m currently working on **Data Analytics, SQL, Python, Tableau & Power BI Visualization**
 
 - 🌱 I’m currently learning **Data Science & Data Engineering**
 
