@@ -1,4 +1,4 @@
-![logo](https://github.com/pavan061994/PavanJadhav/blob/main/Github_Banner.png)
+![logo](https://github.com/Pavan-Jadhav/Pavan-Jadhav/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Pavan Jadhav</h1>
 <h3 align="center">Data Enthusiast from India</h3>
 
