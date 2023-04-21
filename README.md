@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Analytics, SQL, Python, Tableau & Power BI Visualization**
 
-- 🌱 I’m currently learning **Data Science & Data Engineering**
+- 🌱 Also interested to learn **Data Science & Data Engineering**
 
 - 📝 Sometimes I write articles on [https://www.linkedin.com/in/pavanjadhav/](https://www.linkedin.com/in/pavanjadhav/)
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- [Data Analysis with SQL](https://github.com/PavanJadhav) | [Data Visualization with Python / Tableau / Power BI](https://github.com/PavanJadhav) - by SkilloVilla
+- [Data Analysis with SQL](https://github.com/Pavan-Jadhav) | [Data Visualization with Python / Tableau / Power BI](https://github.com/Pavan-Jadhav) - by SkilloVilla
 
 
 <h3 align="left">Connect with me:</h3>
