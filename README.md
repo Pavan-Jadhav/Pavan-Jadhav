@@ -22,9 +22,9 @@
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
-<code>[Titanic Survival Prediction: Machine Learning Model](GITLINK)</code> 👨‍💻 
+<code>[Food Delivery Time Prediction: Machine Learning Model](https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python)</code> 👨‍💻 
 
-<code>[Data Analyst Roadmap](GITLINK)</code> :hourglass:
+<code>[NA](GITLINK)</code> :hourglass:
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
