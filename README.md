@@ -22,6 +22,8 @@
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
+<code>[Govind Sales Annual Report 2022](https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022)</code> :hourglass:
+
 <code>[Food Delivery Time Prediction: Machine Learning Model](https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python)</code> 👨‍💻 
 
 <code>[NA](GITLINK)</code> :hourglass:
