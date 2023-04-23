@@ -26,6 +26,8 @@
 
 <code>[Big-Billion-Day-Sales-Analysis-2022-With-Python](https://github.com/Pavan-Jadhav/Big-Billion-Day-Sales-Analysis-2022)</code> 📊
 
+<code>[Govind-Store-Annual-Report-2022 - Tableau Dashboard](https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022---Tableau-Dashboard)</code> 💻
+
 <code>[Food Delivery Time Prediction: Machine Learning Model](https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python)</code> 👨‍💻 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
