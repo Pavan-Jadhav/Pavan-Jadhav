@@ -24,9 +24,9 @@
 
 <code>[Govind Sales Annual Report 2022](https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022)</code> :hourglass:
 
-<code>[Food Delivery Time Prediction: Machine Learning Model](https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python)</code> 👨‍💻 
+<code>[Big-Billion-Day-Sales-Analysis-2022-Python](https://github.com/Pavan-Jadhav/Big-Billion-Day-Sales-Analysis-2022)</code> 📊
 
-<code>[NA](GITLINK)</code> :hourglass:
+<code>[Food Delivery Time Prediction: Machine Learning Model](https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python)</code> 👨‍💻 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
