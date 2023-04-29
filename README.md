@@ -28,6 +28,8 @@
 
 <code>[Govind-Store-Annual-Report-2022 - Tableau Dashboard](https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022---Tableau-Dashboard)</code> 💻
 
+<code>[Northwind-Database-SQL-Project](https://github.com/Pavan-Jadhav/Northwind-Database-SQL-Project)</code> 📈
+
 <code>[UK Road Accidents - Tableau Dashboard](https://github.com/Pavan-Jadhav/UK-Road-Accident---Tableau-Dashboard)</code> 🛣️
 
 <code>[Food Delivery Time Prediction: Machine Learning Model](https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python)</code> 👨‍💻 
