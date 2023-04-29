@@ -34,6 +34,8 @@
 
 <code>[Food Delivery Time Prediction: Machine Learning Model](https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python)</code> 👨‍💻 
 
+<code>[Govind-Store-Annual-Report-2022 - Power Bi Dashboard](https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-Power-Bi-Dashboard)</code> 💻
+
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
 - [Data Analysis with SQL](https://github.com/Pavan-Jadhav) | [Data Visualization with Python / Tableau / Power BI](https://github.com/Pavan-Jadhav) - by SkilloVilla
